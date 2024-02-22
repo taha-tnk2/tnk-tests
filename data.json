@@ -1,0 +1,2802 @@
+{
+    "DTYPE_INDUSTRY_6_ROLE_86": {
+        "name": "(Creative/Design:Architecture)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_86",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.4
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Software Development Tools",
+            "Creative Editing Tools",
+            "Camera"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_85": {
+        "name": "(Creative/Design:Creative Direction)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_85",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.7000000000000001
+            ],
+            [
+                "Communicator",
+                0.6000000000000001
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Creative Editing Tools",
+            "Social Media",
+            "CMS and Blogging"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_81": {
+        "name": "(Creative/Design:Photography/Videography)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_81",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Creative Editing Tools",
+            "Camera",
+            "Video Streaming Sites"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_92": {
+        "name": "(Creative/Design:Fashion/Accessories)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_92",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.8
+            ],
+            [
+                "Supporter",
+                0.2
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Software Development Tools",
+            "Creative Editing Tools",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_89": {
+        "name": "(Creative/Design:Interior Design)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_89",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Communicator",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Software Development Tools",
+            "Order Processing & Fulfilment Software",
+            "Analytics Dashboard and BI"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_84": {
+        "name": "(Creative/Design:General Management)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_84",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Communicator",
+                0.30000000000000004
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Social Media",
+            "CMS and Blogging",
+            "Creative Editing Tools"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_91": {
+        "name": "(Creative/Design:Graphic Arts/Illustration)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_91",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.8
+            ],
+            [
+                "Supporter",
+                0.6000000000000001
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Creative Editing Tools",
+            "Social Media",
+            "Multimedia Players"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_82": {
+        "name": "(Creative/Design:Painting/Sculpting/Printmaking)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_82",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.7000000000000001
+            ],
+            [
+                "Supporter",
+                0.2
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Creative Editing Tools",
+            "Social Media",
+            "Video Streaming Sites"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_87": {
+        "name": "(Creative/Design:Animation/Multimedia)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_87",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.7000000000000001
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Multimedia Players",
+            "Creative Editing Tools",
+            "Video Streaming Sites"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_88": {
+        "name": "(Creative/Design:Advertising)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_88",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.7000000000000001
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Creative Editing Tools",
+            "Social Media",
+            "CMS and Blogging"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_90": {
+        "name": "(Creative/Design:Industrial Design)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_90",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.5
+            ],
+            [
+                "Supporter",
+                0.2
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Software Development Tools",
+            "Analytics Dashboard and BI",
+            "Creative Editing Tools"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_80": {
+        "name": "(Creative/Design:Senior Management)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_80",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Communicator",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Social Media",
+            "Creative Editing Tools",
+            "CMS and Blogging"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_79": {
+        "name": "(Creative/Design:Web Design)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_79",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.8
+            ],
+            [
+                "Supporter",
+                0.7000000000000001
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Software Development Tools",
+            "CMS and Blogging",
+            "Creative Editing Tools"
+        ]
+    },
+    "DTYPE_INDUSTRY_6_ROLE_83": {
+        "name": "(Creative/Design:Other)",
+        "industry_code": "DTYPE_INDUSTRY_6",
+        "role_code": "DTYPE_INDUSTRY_6_ROLE_83",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.7000000000000001
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Social Media",
+            "Creative Editing Tools",
+            "Video Streaming Sites"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_165": {
+        "name": "(Finance/Accounting:Other)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_165",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.7000000000000001
+            ],
+            [
+                "Communicator",
+                0.1
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Banking",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_164": {
+        "name": "(Finance/Accounting:General Management)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_164",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Communicator",
+                0.0
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Enterprise Resource Planning (ERP)",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_181": {
+        "name": "(Finance/Accounting:Financial Control)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_181",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.6000000000000001
+            ],
+            [
+                "Explorer",
+                0.1
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Banking",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_156": {
+        "name": "(Finance/Accounting:Tax Assessment/Collections)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_156",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.8
+            ],
+            [
+                "Explorer",
+                0.2
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Ticket Management",
+            "Analytics Dashboard and BI"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_172": {
+        "name": "(Finance/Accounting:Audit)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_172",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.1
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Banking",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_176": {
+        "name": "(Finance/Accounting:Investment Management)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_176",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Communicator",
+                0.1
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Ticket Management",
+            "Banking"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_167": {
+        "name": "(Finance/Accounting:Corporate)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_167",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.30000000000000004
+            ],
+            [
+                "Explorer",
+                0.0
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Analytics Dashboard and BI",
+            "Banking"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_161": {
+        "name": "(Finance/Accounting:Registered Investment Advisor)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_161",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.7000000000000001
+            ],
+            [
+                "Explorer",
+                0.2
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Banking",
+            "Enterprise Resource Planning (ERP)"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_157": {
+        "name": "(Finance/Accounting:Senior Management)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_157",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.1
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Banking",
+            "Enterprise Resource Planning (ERP)"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_179": {
+        "name": "(Finance/Accounting:Financial Product Sales/Brokerage)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_179",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.6000000000000001
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "CRM",
+            "Analytics Dashboard and BI"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_182": {
+        "name": "(Finance/Accounting:Financial Analysis/Research)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_182",
+        "digital_personalities": [
+            [
+                "Explorer",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.9
+            ],
+            [
+                "Communicator",
+                0.2
+            ],
+            [
+                "Supporter",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Banking",
+            "Invoicing & Payroll"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_175": {
+        "name": "(Finance/Accounting:Accounting)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_175",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.7000000000000001
+            ],
+            [
+                "Explorer",
+                0.1
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Banking",
+            "Analytics Dashboard and BI"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_171": {
+        "name": "(Finance/Accounting:Bookkeeping)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_171",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.9
+            ],
+            [
+                "Communicator",
+                0.1
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Banking",
+            "Point of Sale"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_158": {
+        "name": "(Finance/Accounting:Securities Analysis/Research)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_158",
+        "digital_personalities": [
+            [
+                "Explorer",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.5
+            ],
+            [
+                "Communicator",
+                0.2
+            ],
+            [
+                "Supporter",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Banking",
+            "News Sites"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_168": {
+        "name": "(Finance/Accounting:Controller)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_168",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.6000000000000001
+            ],
+            [
+                "Explorer",
+                0.1
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Banking",
+            "Enterprise Resource Planning (ERP)"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_178": {
+        "name": "(Finance/Accounting:Fund Accounting)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_178",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.2
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Banking",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_170": {
+        "name": "(Finance/Accounting:CFO/Chief Financial Officer)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_170",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.30000000000000004
+            ],
+            [
+                "Communicator",
+                0.0
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Enterprise Resource Planning (ERP)",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_159": {
+        "name": "(Finance/Accounting:Risk Management/Compliance)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_159",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Communicator",
+                0.0
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Invoicing & Payroll",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_174": {
+        "name": "(Finance/Accounting:Accounts Payable/Receivable)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_174",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Point of Sale",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_177": {
+        "name": "(Finance/Accounting:Investment Banking/Sales and Trading)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_177",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.30000000000000004
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_169": {
+        "name": "(Finance/Accounting:Collections)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_169",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.8
+            ],
+            [
+                "Explorer",
+                0.2
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Ticket Management",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_180": {
+        "name": "(Finance/Accounting:Financial Planning/Advising)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_180",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Communicator",
+                0.30000000000000004
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "Invoicing & Payroll"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_173": {
+        "name": "(Finance/Accounting:Analyst)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_173",
+        "digital_personalities": [
+            [
+                "Explorer",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.9
+            ],
+            [
+                "Supporter",
+                0.30000000000000004
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Banking",
+            "Invoicing & Payroll"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_160": {
+        "name": "(Finance/Accounting:Registered Rep)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_160",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.8
+            ],
+            [
+                "Supporter",
+                0.6000000000000001
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Help Forums",
+            "Ticket Management",
+            "Banking"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_162": {
+        "name": "(Finance/Accounting:Procurement)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_162",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Order Processing & Fulfilment Software",
+            "Invoicing & Payroll",
+            "Enterprise Resource Planning (ERP)"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_166": {
+        "name": "(Finance/Accounting:Credit Review/Analysis)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_166",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Explorer",
+                0.9
+            ],
+            [
+                "Communicator",
+                0.30000000000000004
+            ],
+            [
+                "Supporter",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "Invoicing & Payroll"
+        ]
+    },
+    "DTYPE_INDUSTRY_11_ROLE_163": {
+        "name": "(Finance/Accounting:Private Equity)",
+        "industry_code": "DTYPE_INDUSTRY_11",
+        "role_code": "DTYPE_INDUSTRY_11_ROLE_163",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Explorer",
+                0.1
+            ],
+            [
+                "Communicator",
+                0.1
+            ],
+            [
+                "Supporter",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Enterprise Resource Planning (ERP)",
+            "Order Processing & Fulfilment Software",
+            "Invoicing & Payroll"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_234": {
+        "name": "(Insurance:Bookkeeping)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_234",
+        "digital_personalities": [
+            [
+                "Supporter",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Explorer",
+                0.1
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Banking",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_239": {
+        "name": "(Insurance:Insurance Brokerage)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_239",
+        "digital_personalities": [
+            [
+                "Supporter",
+                1.0
+            ],
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Analytics Dashboard and BI",
+            "Banking"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_225": {
+        "name": "(Insurance:Third Party Administrator)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_225",
+        "digital_personalities": [
+            [
+                "Supporter",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.1
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Invoicing & Payroll",
+            "Project Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_226": {
+        "name": "(Insurance:Senior Management)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_226",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.6000000000000001
+            ],
+            [
+                "Communicator",
+                0.1
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Order Processing & Fulfilment Software",
+            "Analytics Dashboard and BI"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_231": {
+        "name": "(Insurance:General Management)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_231",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.6000000000000001
+            ],
+            [
+                "Communicator",
+                0.2
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Order Processing & Fulfilment Software",
+            "CRM"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_229": {
+        "name": "(Insurance:Planning/Advising)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_229",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.6000000000000001
+            ],
+            [
+                "Communicator",
+                0.30000000000000004
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Banking",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_230": {
+        "name": "(Insurance:Employee Benefits Broker/Consultant)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_230",
+        "digital_personalities": [
+            [
+                "Supporter",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.7000000000000001
+            ],
+            [
+                "Communicator",
+                0.6000000000000001
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Knowledge base software",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_228": {
+        "name": "(Insurance:Policy Underwriting)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_228",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Explorer",
+                0.9
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Invoicing & Payroll",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_240": {
+        "name": "(Insurance:Independent Insurance Agent)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_240",
+        "digital_personalities": [
+            [
+                "Supporter",
+                1.0
+            ],
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Explorer",
+                0.2
+            ],
+            [
+                "Orchestrator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Analytics Dashboard and BI",
+            "Social Media"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_236": {
+        "name": "(Insurance:Appraiser)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_236",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Explorer",
+                0.30000000000000004
+            ],
+            [
+                "Supporter",
+                0.30000000000000004
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Camera",
+            "Banking",
+            "Invoicing & Payroll"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_232": {
+        "name": "(Insurance:Other)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_232",
+        "digital_personalities": [
+            [
+                "Supporter",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.8
+            ],
+            [
+                "Communicator",
+                0.2
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Analytics Dashboard and BI",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_241": {
+        "name": "(Insurance:Financial Analysis/Research)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_241",
+        "digital_personalities": [
+            [
+                "Explorer",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.7000000000000001
+            ],
+            [
+                "Supporter",
+                0.1
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Banking",
+            "Invoicing & Payroll"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_237": {
+        "name": "(Insurance:Actuarial Analysis)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_237",
+        "digital_personalities": [
+            [
+                "Explorer",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.9
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Banking",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_233": {
+        "name": "(Insurance:Claims Review/Adjusting)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_233",
+        "digital_personalities": [
+            [
+                "Explorer",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.8
+            ],
+            [
+                "Orchestrator",
+                0.7000000000000001
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Invoicing & Payroll",
+            "Camera"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_238": {
+        "name": "(Insurance:Investment Management)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_238",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Order Processing & Fulfilment Software",
+            "Ticket Management",
+            "Analytics Dashboard and BI"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_235": {
+        "name": "(Insurance:Audit)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_235",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Explorer",
+                0.6000000000000001
+            ],
+            [
+                "Supporter",
+                0.6000000000000001
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Analytics Dashboard and BI",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_15_ROLE_227": {
+        "name": "(Insurance:Risk Management/Compliance)",
+        "industry_code": "DTYPE_INDUSTRY_15",
+        "role_code": "DTYPE_INDUSTRY_15_ROLE_227",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.8
+            ],
+            [
+                "Communicator",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Order Processing & Fulfilment Software",
+            "Analytics Dashboard and BI"
+        ]
+    },
+    "DTYPE_INDUSTRY_25_ROLE_426": {
+        "name": "(Banking/Mortgage:Environmental Protection)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_25_ROLE_426",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.4
+            ],
+            [
+                "Supporter",
+                0.1
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Order Processing & Fulfilment Software",
+            "Enterprise Resource Planning (ERP)"
+        ]
+    },
+    "DTYPE_INDUSTRY_27_ROLE_438": {
+        "name": "(Banking/Mortgage:Wholesale/Reselling)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_27_ROLE_438",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.4
+            ],
+            [
+                "Supporter",
+                0.30000000000000004
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Order Processing & Fulfilment Software",
+            "Analytics Dashboard and BI"
+        ]
+    },
+    "DTYPE_INDUSTRY_27_ROLE_446": {
+        "name": "(Banking/Mortgage:Cashier)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_27_ROLE_446",
+        "digital_personalities": [
+            [
+                "Supporter",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.8
+            ],
+            [
+                "Communicator",
+                0.6000000000000001
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Point of Sale",
+            "Invoicing & Payroll"
+        ]
+    },
+    "DTYPE_INDUSTRY_28_ROLE_456": {
+        "name": "(Banking/Mortgage:Other)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_28_ROLE_456",
+        "digital_personalities": [
+            [
+                "Supporter",
+                1.0
+            ],
+            [
+                "Explorer",
+                0.8
+            ],
+            [
+                "Orchestrator",
+                0.7000000000000001
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_25_ROLE_419": {
+        "name": "(Banking/Mortgage:Process Improvement)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_25_ROLE_419",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.4
+            ],
+            [
+                "Supporter",
+                0.2
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Banking",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_25_ROLE_417": {
+        "name": "(Banking/Mortgage:Quality Systems)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_25_ROLE_417",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Communicator",
+                0.1
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Software Development Tools",
+            "Banking"
+        ]
+    },
+    "DTYPE_INDUSTRY_25_ROLE_422": {
+        "name": "(Banking/Mortgage:Occupational Heal/Safety)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_25_ROLE_422",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.8
+            ],
+            [
+                "Communicator",
+                0.6000000000000001
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Front Of House",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_29_ROLE_468": {
+        "name": "(Banking/Mortgage:Management Consulting)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_29_ROLE_468",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Explorer",
+                0.2
+            ],
+            [
+                "Supporter",
+                0.0
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "CRM"
+        ]
+    },
+    "DTYPE_INDUSTRY_26_ROLE_435": {
+        "name": "(Banking/Mortgage:Legal)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_26_ROLE_435",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.8
+            ],
+            [
+                "Supporter",
+                0.8
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Ticket Management",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_28_ROLE_452": {
+        "name": "(Banking/Mortgage:Sales Operations)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_28_ROLE_452",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.8
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "CRM",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_29_ROLE_465": {
+        "name": "(Banking/Mortgage:Strategy)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_29_ROLE_465",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.5
+            ],
+            [
+                "Supporter",
+                0.2
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "CRM"
+        ]
+    },
+    "DTYPE_INDUSTRY_28_ROLE_461": {
+        "name": "(Banking/Mortgage:Field Service)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_28_ROLE_461",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Supporter",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.7000000000000001
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Order Processing & Fulfilment Software",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_27_ROLE_442": {
+        "name": "(Banking/Mortgage:Retail/Counter Sales)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_27_ROLE_442",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.6000000000000001
+            ],
+            [
+                "Orchestrator",
+                0.6000000000000001
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Point of Sale",
+            "Help Forums"
+        ]
+    },
+    "DTYPE_INDUSTRY_26_ROLE_433": {
+        "name": "(Banking/Mortgage:Appraising)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_26_ROLE_433",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.7000000000000001
+            ],
+            [
+                "Explorer",
+                0.5
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "Invoicing & Payroll"
+        ]
+    },
+    "DTYPE_INDUSTRY_27_ROLE_441": {
+        "name": "(Banking/Mortgage:Senior Management)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_27_ROLE_441",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Communicator",
+                0.1
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "CRM",
+            "Analytics Dashboard and BI"
+        ]
+    },
+    "DTYPE_INDUSTRY_26_ROLE_434": {
+        "name": "(Banking/Mortgage:Agent/Broker)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_26_ROLE_434",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.8
+            ],
+            [
+                "Orchestrator",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_25_ROLE_425": {
+        "name": "(Banking/Mortgage:Food Safety/Inspection)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_25_ROLE_425",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.1
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Order Processing & Fulfilment Software",
+            "Point of Sale"
+        ]
+    },
+    "DTYPE_INDUSTRY_28_ROLE_450": {
+        "name": "(Banking/Mortgage:Telesales)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_28_ROLE_450",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.4
+            ],
+            [
+                "Supporter",
+                0.30000000000000004
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "CRM",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_25_ROLE_423": {
+        "name": "(Banking/Mortgage:ISO Certification)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_25_ROLE_423",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.8
+            ],
+            [
+                "Communicator",
+                0.6000000000000001
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Knowledge base software",
+            "Software Development Tools"
+        ]
+    },
+    "DTYPE_INDUSTRY_27_ROLE_448": {
+        "name": "(Banking/Mortgage:Event Ticketing)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_27_ROLE_448",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.6000000000000001
+            ],
+            [
+                "Communicator",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Banking",
+            "CRM"
+        ]
+    },
+    "DTYPE_INDUSTRY_27_ROLE_439": {
+        "name": "(Banking/Mortgage:Visual/Display Merchandising)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_27_ROLE_439",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.7000000000000001
+            ],
+            [
+                "Supporter",
+                0.1
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Video Streaming Sites",
+            "Social Media",
+            "CMS and Blogging"
+        ]
+    },
+    "DTYPE_INDUSTRY_29_ROLE_469": {
+        "name": "(Banking/Mortgage:HR Consulting)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_29_ROLE_469",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.2
+            ],
+            [
+                "Communicator",
+                0.1
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Invoicing & Payroll",
+            "Banking",
+            "Analytics Dashboard and BI"
+        ]
+    },
+    "DTYPE_INDUSTRY_27_ROLE_445": {
+        "name": "(Banking/Mortgage:Other)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_27_ROLE_445",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Orchestrator",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_25_ROLE_420": {
+        "name": "(Banking/Mortgage:General Management)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_25_ROLE_420",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Communicator",
+                0.2
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "CRM",
+            "Ticket Management"
+        ]
+    },
+    "DTYPE_INDUSTRY_27_ROLE_449": {
+        "name": "(Banking/Mortgage:Event Ticketing)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_27_ROLE_449",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.6000000000000001
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Banking",
+            "CRM"
+        ]
+    },
+    "DTYPE_INDUSTRY_26_ROLE_428": {
+        "name": "(Banking/Mortgage:Title Officer)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_26_ROLE_428",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.8
+            ],
+            [
+                "Communicator",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Banking",
+            "Front Of House"
+        ]
+    },
+    "DTYPE_INDUSTRY_27_ROLE_443": {
+        "name": "(Banking/Mortgage:Retail Services)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_27_ROLE_443",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.9
+            ],
+            [
+                "Orchestrator",
+                0.8
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "CRM",
+            "Point of Sale"
+        ]
+    },
+    "DTYPE_INDUSTRY_25_ROLE_421": {
+        "name": "(Banking/Mortgage:Other)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_25_ROLE_421",
+        "digital_personalities": [
+            [
+                "Supporter",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.9
+            ],
+            [
+                "Communicator",
+                0.9
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "Knowledge base software"
+        ]
+    },
+    "DTYPE_INDUSTRY_28_ROLE_453": {
+        "name": "(Banking/Mortgage:Sales)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_28_ROLE_453",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.6000000000000001
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "CRM",
+            "Social Media"
+        ]
+    },
+    "DTYPE_INDUSTRY_29_ROLE_464": {
+        "name": "(Banking/Mortgage:Strategy Consulting)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_29_ROLE_464",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Explorer",
+                0.8
+            ],
+            [
+                "Communicator",
+                0.8
+            ],
+            [
+                "Supporter",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Analytics Dashboard and BI",
+            "Banking",
+            "CRM"
+        ]
+    },
+    "DTYPE_INDUSTRY_26_ROLE_430": {
+        "name": "(Banking/Mortgage:Property Manager)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_26_ROLE_430",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.6000000000000001
+            ],
+            [
+                "Communicator",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Invoicing & Payroll",
+            "CRM"
+        ]
+    },
+    "DTYPE_INDUSTRY_28_ROLE_457": {
+        "name": "(Banking/Mortgage:Business Development)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_28_ROLE_457",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.30000000000000004
+            ],
+            [
+                "Supporter",
+                0.0
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "CRM",
+            "Analytics Dashboard and BI"
+        ]
+    },
+    "DTYPE_INDUSTRY_26_ROLE_437": {
+        "name": "(Banking/Mortgage:Investor)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_26_ROLE_437",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.7000000000000001
+            ],
+            [
+                "Explorer",
+                0.0
+            ],
+            [
+                "Supporter",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "CRM"
+        ]
+    },
+    "DTYPE_INDUSTRY_25_ROLE_418": {
+        "name": "(Banking/Mortgage:Production Quality)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_25_ROLE_418",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Supporter",
+                0.6000000000000001
+            ],
+            [
+                "Communicator",
+                0.2
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Software Development Tools",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_29_ROLE_470": {
+        "name": "(Banking/Mortgage:Event Ticketing)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_29_ROLE_470",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.7000000000000001
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Banking",
+            "Video Streaming Sites"
+        ]
+    },
+    "DTYPE_INDUSTRY_28_ROLE_454": {
+        "name": "(Banking/Mortgage:Product Sales)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_28_ROLE_454",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.5
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "CRM",
+            "Social Media"
+        ]
+    },
+    "DTYPE_INDUSTRY_26_ROLE_436": {
+        "name": "(Banking/Mortgage:Leasing/Acquisition)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_26_ROLE_436",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.8
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Order Processing & Fulfilment Software",
+            "Banking",
+            "CRM"
+        ]
+    },
+    "DTYPE_INDUSTRY_29_ROLE_467": {
+        "name": "(Banking/Mortgage:Operations Consulting)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_29_ROLE_467",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Explorer",
+                0.30000000000000004
+            ],
+            [
+                "Supporter",
+                0.0
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "Order Processing & Fulfilment Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_28_ROLE_460": {
+        "name": "(Banking/Mortgage:International Sales)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_28_ROLE_460",
+        "digital_personalities": [
+            [
+                "Communicator",
+                1.0
+            ],
+            [
+                "Orchestrator",
+                0.5
+            ],
+            [
+                "Supporter",
+                0.4
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "CRM",
+            "Social Media"
+        ]
+    },
+    "DTYPE_INDUSTRY_28_ROLE_462": {
+        "name": "(Banking/Mortgage:Event Ticketing)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_28_ROLE_462",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.6000000000000001
+            ],
+            [
+                "Supporter",
+                0.5
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Ticket Management",
+            "Banking",
+            "Rostering Software"
+        ]
+    },
+    "DTYPE_INDUSTRY_29_ROLE_463": {
+        "name": "(Banking/Mortgage:Technology Consulting)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_29_ROLE_463",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Communicator",
+                0.7000000000000001
+            ],
+            [
+                "Supporter",
+                0.2
+            ],
+            [
+                "Explorer",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Ticket Management",
+            "Analytics Dashboard and BI"
+        ]
+    },
+    "DTYPE_INDUSTRY_26_ROLE_427": {
+        "name": "(Banking/Mortgage:Underwriter)",
+        "industry_code": "DTYPE_INDUSTRY_2",
+        "role_code": "DTYPE_INDUSTRY_26_ROLE_427",
+        "digital_personalities": [
+            [
+                "Orchestrator",
+                1.0
+            ],
+            [
+                "Explorer",
+                0.30000000000000004
+            ],
+            [
+                "Supporter",
+                0.1
+            ],
+            [
+                "Communicator",
+                0.0
+            ]
+        ],
+        "predicted_applications": [
+            "Banking",
+            "Analytics Dashboard and BI",
+            "Invoicing & Payroll"
+        ]
+    }
+}

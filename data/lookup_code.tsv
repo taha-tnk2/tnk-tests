@@ -1,0 +1,570 @@
+tnk-vuln-missupdates	Vulnerability	Missing updates			6
+tnk-vuln-datastorage	Vulnerability	Incorrect storage of data and devices			3
+tnk-vuln-personalstorage	Vulnerability	Using personal data storage for work files			15
+tnk-vuln-shareidinfo	Vulnerability	Sharing personally identifiable information online			11
+tnk-vuln-unauthdev	Vulnerability	Unauthorized user access			12
+tnk-vuln-unfamsys	Vulnerability	Using unfamiliar software and systems			17
+tnk-vuln-backupdata	Vulnerability	Not backing up data			8
+tnk-vuln-seta	Vulnerability	Ineffective SETA Programs			4
+tnk-vuln-poorpasswd	Vulnerability	Poor password hygiene			10
+tnk-vuln-unsolicteddev	Vulnerability	Using unsolicited devices			18
+tnk-vuln-neglectict	Vulnerability	Neglecting ICT policies and procedures			7
+tnk-vuln-publicwifi	Vulnerability	Using public WiFi or tethering services			16
+tnk-vuln-disablefirewall	Vulnerability	Disabling firewalls and antivirus software			2
+tnk-vuln-lockdevices	Vulnerability	Locking devices			5
+tnk-vuln-unknownclick	Vulnerability	Clicking on unknown files and links			1
+tnk-vuln-autofill	Vulnerability	Using autofill features for sensitive data			14
+tnk-vuln-unintendis	Vulnerability	Unintentional disclosure			13
+tnk-vuln-verifycall	Vulnerability	Not verifying callers or SMS			9
+AGE-GROUP-5	Age	Above 60			6
+DTYPE_TOOL_17	AppSelection	CMS and Blogging			7
+DTYPE_TOOL_13	AppSelection	Analytics Dashboard and BI			1
+DTYPE_TOOL_4	AppSelection	Front Of House			13
+EDU-GROUP-3	Education	Diploma			5
+GENDER-GROUP-2	Gender	Other			0
+EDU-GROUP-1	Education	Undergraduate			3
+EDU-GROUP-7	Education	Masters Degree			9
+EDU-GROUP-10	Education	None			1
+GENDER-GROUP-0	Gender	Male			1
+EDU-GROUP-5	Education	Bachelor Degree			7
+EDU-GROUP-9	Education	Other degree			11
+EDU-GROUP-2	Education	Certificate I-IV / TAFE			4
+EDU-GROUP-4	Education	Advanced Diploma, Associate Degree			6
+EDU-GROUP-0	Education	Senior Secondary Certificate of Education			2
+EDU-GROUP-6	Education	Bachelor Honours Degree, Graduate Certificate, Graduate Diploma			8
+EDU-GROUP-8	Education	Doctoral Degree			10
+GENDER-GROUP-1	Gender	Female			2
+DTYPE_INDUSTRY_6	Industry	Creative/Design			6
+DTYPE_INDUSTRY_11	Industry	Finance/Accounting			11
+DTYPE_INDUSTRY_15	Industry	Insurance			15
+DTYPE_INDUSTRY_2	Industry	Banking/Mortgage			2
+DTYPE_INDUSTRY_29	Industry	Strategy & Consulting			29
+DTYPE_INDUSTRY_21	Industry	Marketing			21
+DTYPE_INDUSTRY_7	Industry	Customer Support/Client Services			7
+DTYPE_INDUSTRY_24	Industry	Public Safety and Security Services			24
+DTYPE_INDUSTRY_3	Industry	Biotech			3
+DTYPE_INDUSTRY_28	Industry	Sales			28
+DTYPE_INDUSTRY_12	Industry	Food Services/Hospitality			12
+DTYPE_INDUSTRY_9	Industry	Engineering			9
+DTYPE_INDUSTRY_16	Industry	IT/Computers/Electronics			16
+DTYPE_INDUSTRY_10	Industry	Executives			10
+DTYPE_INDUSTRY_19	Industry	Logistics/Transportation			19
+DTYPE_INDUSTRY_25	Industry	Quality Assurance/Safety			25
+DTYPE_INDUSTRY_13	Industry	Human Resources			13
+DTYPE_INDUSTRY_4	Industry	Building Construction			4
+DTYPE_INDUSTRY_17	Industry	Journalism/Media/Entertainment			17
+DTYPE_INDUSTRY_8	Industry	Education			8
+DTYPE_INDUSTRY_22	Industry	Medical and Health			22
+DTYPE_INDUSTRY_26	Industry	Real Estate			26
+DTYPE_INDUSTRY_5	Industry	Business			5
+DTYPE_INDUSTRY_14	Industry	Installation/Maintenance/Repair			14
+DTYPE_INDUSTRY_1	Industry	Agriculture			1
+DTYPE_INDUSTRY_18	Industry	Legal			18
+DTYPE_INDUSTRY_27	Industry	Retail			27
+DTYPE_INDUSTRY_23	Industry	Other			23
+DTYPE_INDUSTRY_20	Industry	Manufacturing/Production/Operations			20
+DTYPE_INDUSTRY_25_ROLE_426	Role	Environmental Protection			121
+DTYPE_INDUSTRY_27_ROLE_438	Role	Wholesale/Reselling			468
+DTYPE_INDUSTRY_1_ROLE_2	Role	Seed/Nursery Trade			382
+DTYPE_INDUSTRY_27_ROLE_446	Role	Cashier			47
+DTYPE_INDUSTRY_28_ROLE_456	Role	Other			308
+DTYPE_INDUSTRY_25_ROLE_419	Role	Process Improvement			339
+DTYPE_INDUSTRY_25_ROLE_417	Role	Quality Systems			359
+DTYPE_INDUSTRY_25_ROLE_422	Role	Occupational Heal/Safety			276
+DTYPE_INDUSTRY_29_ROLE_468	Role	Management Consulting			244
+DTYPE_INDUSTRY_26_ROLE_435	Role	Legal			235
+DTYPE_INDUSTRY_28_ROLE_452	Role	Sales Operations			376
+DTYPE_INDUSTRY_29_ROLE_465	Role	Strategy			428
+DTYPE_INDUSTRY_28_ROLE_461	Role	Field Service			142
+DTYPE_INDUSTRY_27_ROLE_442	Role	Retail/Counter Sales			370
+DTYPE_INDUSTRY_26_ROLE_433	Role	Appraising			18
+DTYPE_INDUSTRY_27_ROLE_441	Role	Senior Management			391
+DTYPE_INDUSTRY_26_ROLE_434	Role	Agent/Broker			11
+DTYPE_INDUSTRY_25_ROLE_425	Role	Food Safety/Inspection			154
+DTYPE_INDUSTRY_28_ROLE_450	Role	Telesales			445
+DTYPE_INDUSTRY_25_ROLE_423	Role	ISO Certification			221
+DTYPE_INDUSTRY_27_ROLE_448	Role	Event Ticketing			131
+DTYPE_INDUSTRY_27_ROLE_439	Role	Visual/Display Merchandising			462
+DTYPE_INDUSTRY_29_ROLE_469	Role	HR Consulting			200
+DTYPE_INDUSTRY_27_ROLE_445	Role	Other			310
+DTYPE_INDUSTRY_25_ROLE_420	Role	General Management			181
+DTYPE_INDUSTRY_27_ROLE_449	Role	Event Ticketing			129
+DTYPE_INDUSTRY_26_ROLE_428	Role	Title Officer			450
+DTYPE_INDUSTRY_27_ROLE_443	Role	Retail Services			371
+DTYPE_INDUSTRY_25_ROLE_421	Role	Other			305
+DTYPE_INDUSTRY_28_ROLE_453	Role	Sales			375
+DTYPE_INDUSTRY_29_ROLE_464	Role	Strategy Consulting			429
+DTYPE_INDUSTRY_26_ROLE_430	Role	Property Manager			351
+DTYPE_INDUSTRY_28_ROLE_457	Role	Business Development			40
+DTYPE_INDUSTRY_26_ROLE_437	Role	Investor			218
+DTYPE_INDUSTRY_25_ROLE_418	Role	Production Quality			344
+DTYPE_INDUSTRY_29_ROLE_470	Role	Event Ticketing			130
+DTYPE_INDUSTRY_28_ROLE_454	Role	Product Sales			347
+DTYPE_INDUSTRY_26_ROLE_436	Role	Leasing/Acquisition			234
+DTYPE_INDUSTRY_29_ROLE_467	Role	Operations Consulting			280
+DTYPE_INDUSTRY_28_ROLE_460	Role	International Sales			213
+DTYPE_INDUSTRY_28_ROLE_462	Role	Event Ticketing			127
+DTYPE_INDUSTRY_29_ROLE_463	Role	Technology Consulting			441
+DTYPE_INDUSTRY_26_ROLE_427	Role	Underwriter			456
+DTYPE_INDUSTRY_9_ROLE_128	Role	General Management			171
+DTYPE_INDUSTRY_2_ROLE_28	Role	Banking			29
+DTYPE_INDUSTRY_15_ROLE_234	Role	Bookkeeping			34
+DTYPE_INDUSTRY_1_ROLE_16	Role	Fertilizer/Agriculture Chemicals			139
+DTYPE_INDUSTRY_17_ROLE_274	Role	Video/Television			460
+DTYPE_INDUSTRY_18_ROLE_298	Role	CCO/Chief Compliance Officer			48
+DTYPE_INDUSTRY_22_ROLE_380	Role	Dental Practitioner			100
+AGE-GROUP-4	Age	50 to 60			5
+AGE-GROUP-1	Age	20 to 30			2
+AGE-GROUP-3	Age	40 to 50			4
+AGE-GROUP-2	Age	30 to 40			3
+DTYPE_TOOL_23	AppSelection	Office Suites			21
+DTYPE_TOOL_16	AppSelection	Price comparison websites			24
+DTYPE_TOOL_3	AppSelection	Enterprise Resource Planning (ERP)			12
+DTYPE_TOOL_8	AppSelection	Project Management			25
+DTYPE_TOOL_7	AppSelection	Point of Sale			23
+DTYPE_TOOL_12	AppSelection	Ticket Management			31
+DTYPE_TOOL_14	AppSelection	Knowledge base software			16
+DTYPE_TOOL_32	AppSelection	Social Media			29
+DTYPE_TOOL_24	AppSelection	Cloud Storage			6
+DTYPE_TOOL_27	AppSelection	Location and Tracking			17
+DTYPE_TOOL_5	AppSelection	Invoicing & Payroll			15
+DTYPE_TOOL_22	AppSelection	Messengers and Conferencing			18
+DTYPE_TOOL_19	AppSelection	Camera			5
+DTYPE_TOOL_25	AppSelection	eBook & Audiobooks			10
+DTYPE_TOOL_9	AppSelection	Banking			3
+DTYPE_TOOL_11	AppSelection	Software Development Tools			30
+DTYPE_TOOL_31	AppSelection	Self Learning Platforms			28
+DTYPE_TOOL_15	AppSelection	Local Directories			16
+DTYPE_TOOL_29	AppSelection	News Sites			20
+DTYPE_TOOL_21	AppSelection	Email			11
+DTYPE_TOOL_18	AppSelection	Calendar			4
+DTYPE_TOOL_26	AppSelection	Help Forums			14
+DTYPE_TOOL_30	AppSelection	Search Engines			27
+DTYPE_TOOL_10	AppSelection	Rostering Software			26
+DTYPE_TOOL_20	AppSelection	Creative Editing Tools			8
+DTYPE_TOOL_6	AppSelection	Order Processing & Fulfilment Software			22
+DTYPE_TOOL_1	AppSelection	Appointment Scheduling			2
+DTYPE_TOOL_33	AppSelection	Video Streaming Sites			32
+DTYPE_TOOL_28	AppSelection	Multimedia Players			19
+DTYPE_TOOL_2	AppSelection	CRM			9
+DTYPE_INDUSTRY_13_ROLE_207	Role	CHRO/Chief Human Resource Officer			58
+DTYPE_INDUSTRY_19_ROLE_316	Role	General Management			173
+DTYPE_INDUSTRY_14_ROLE_212	Role	Senior Management			387
+DTYPE_INDUSTRY_13_ROLE_202	Role	CPO/Chief People Officer			84
+DTYPE_INDUSTRY_13_ROLE_194	Role	Talent Management			436
+DTYPE_INDUSTRY_18_ROLE_289	Role	Senior Management			386
+DTYPE_INDUSTRY_21_ROLE_362	Role	Marketing Production/Traffic			248
+DTYPE_INDUSTRY_2_ROLE_25	Role	Credit			87
+DTYPE_INDUSTRY_16_ROLE_265	Role	CISO/Chief Information Security Officer			60
+DTYPE_INDUSTRY_3_ROLE_38	Role	Chemical Research			56
+DTYPE_INDUSTRY_8_ROLE_109	Role	General Management			182
+DTYPE_INDUSTRY_21_ROLE_350	Role	General Management			179
+DTYPE_INDUSTRY_18_ROLE_291	Role	Regulatory/Compliance			367
+DTYPE_INDUSTRY_16_ROLE_249	Role	Software Development			418
+DTYPE_INDUSTRY_15_ROLE_239	Role	Insurance Brokerage			210
+DTYPE_INDUSTRY_1_ROLE_8	Role	Meats/Provisions			254
+DTYPE_INDUSTRY_22_ROLE_382	Role	General Management			162
+DTYPE_INDUSTRY_22_ROLE_400	Role	Healthcare Aid			193
+DTYPE_INDUSTRY_11_ROLE_165	Role	Other			309
+DTYPE_INDUSTRY_22_ROLE_383	Role	Other			295
+DTYPE_INDUSTRY_7_ROLE_99	Role	General Management			166
+DTYPE_INDUSTRY_5_ROLE_74	Role	Other			301
+DTYPE_INDUSTRY_8_ROLE_111	Role	Admissions/Advising			6
+DTYPE_INDUSTRY_16_ROLE_261	Role	Other			311
+DTYPE_INDUSTRY_15_ROLE_225	Role	Third Party Administrator			448
+DTYPE_INDUSTRY_15_ROLE_226	Role	Senior Management			397
+DTYPE_INDUSTRY_5_ROLE_73	Role	Product Management			345
+DTYPE_INDUSTRY_21_ROLE_341	Role	Telemarketing			444
+DTYPE_INDUSTRY_14_ROLE_213	Role	Plumbing/Pipefitting			332
+DTYPE_INDUSTRY_11_ROLE_164	Role	General Management			169
+DTYPE_INDUSTRY_19_ROLE_311	Role	Senior Management			395
+DTYPE_INDUSTRY_21_ROLE_360	Role	Media Planning/Buying			257
+DTYPE_INDUSTRY_5_ROLE_72	Role	Professional Services			349
+DTYPE_INDUSTRY_9_ROLE_139	Role	Field			140
+DTYPE_INDUSTRY_9_ROLE_121	Role	Plant Engineering			329
+DTYPE_INDUSTRY_21_ROLE_358	Role	Brand/Product Marketing			37
+DTYPE_INDUSTRY_1_ROLE_11	Role	Forestry/Logging			155
+DTYPE_INDUSTRY_9_ROLE_122	Role	Enterprise Software Implementation/Consulting			119
+DTYPE_INDUSTRY_22_ROLE_370	Role	Sports Medicine			423
+DTYPE_INDUSTRY_16_ROLE_248	Role	Software Engineer			419
+DTYPE_INDUSTRY_16_ROLE_251	Role	QA & Testing			358
+DTYPE_INDUSTRY_16_ROLE_271	Role	IT Project Management			223
+DTYPE_INDUSTRY_9_ROLE_123	Role	Energy/Nuclear Engineering			117
+DTYPE_INDUSTRY_21_ROLE_353	Role	Corporate Marketing			81
+DTYPE_INDUSTRY_19_ROLE_315	Role	Piloting: Air/Marine			326
+DTYPE_INDUSTRY_2_ROLE_22	Role	Senior Management			385
+DTYPE_INDUSTRY_9_ROLE_140	Role	Facilities Engineering			133
+DTYPE_INDUSTRY_21_ROLE_366	Role	Investor/Public/Media Relations			219
+DTYPE_INDUSTRY_16_ROLE_263	Role	Computer/Network Security			70
+DTYPE_INDUSTRY_9_ROLE_138	Role	Industrial/Manufacturing Engineering			208
+DTYPE_INDUSTRY_13_ROLE_205	Role	Compensation/Benefit Policy			67
+DTYPE_INDUSTRY_15_ROLE_231	Role	General Management			180
+DTYPE_INDUSTRY_15_ROLE_229	Role	Planning/Advising			328
+DTYPE_INDUSTRY_8_ROLE_102	Role	Teacher/Professor			439
+DTYPE_INDUSTRY_7_ROLE_101	Role	Account Management			2
+DTYPE_INDUSTRY_11_ROLE_181	Role	Financial Control			145
+DTYPE_INDUSTRY_16_ROLE_262	Role	CSO/Chief Security Officer			89
+DTYPE_INDUSTRY_16_ROLE_246	Role	Storage Management			424
+DTYPE_INDUSTRY_11_ROLE_156	Role	Tax Assessment/Collections			437
+DTYPE_INDUSTRY_13_ROLE_195	Role	Senior Management			400
+DTYPE_INDUSTRY_9_ROLE_126	Role	Packaging Engineering			315
+DTYPE_INDUSTRY_1_ROLE_15	Role	Field Crops/Soil Management			141
+DTYPE_INDUSTRY_18_ROLE_305	Role	Judge/Magistrate			227
+DTYPE_INDUSTRY_22_ROLE_386	Role	Chiropractic			57
+DTYPE_INDUSTRY_8_ROLE_106	Role	Provost			352
+DTYPE_INDUSTRY_18_ROLE_288	Role	Tax Lawyer			438
+DTYPE_INDUSTRY_4_ROLE_49	Role	Roofing			374
+DTYPE_INDUSTRY_21_ROLE_367	Role	Fundraising			160
+DTYPE_INDUSTRY_4_ROLE_44	Role	Town/City Planning			451
+DTYPE_INDUSTRY_18_ROLE_295	Role	General Management			168
+DTYPE_INDUSTRY_5_ROLE_78	Role	Franchise			156
+DTYPE_INDUSTRY_4_ROLE_51	Role	Plumbing/Pipefitting			331
+DTYPE_INDUSTRY_15_ROLE_230	Role	Employee Benefits Broker/Consultant			115
+DTYPE_INDUSTRY_13_ROLE_200	Role	Other			302
+DTYPE_INDUSTRY_9_ROLE_130	Role	Chemical Engineering			55
+DTYPE_INDUSTRY_11_ROLE_172	Role	Audit			25
+DTYPE_INDUSTRY_21_ROLE_340	Role	Visual/Display Merchandising			461
+DTYPE_INDUSTRY_10_ROLE_152	Role	Board Member			32
+DTYPE_INDUSTRY_11_ROLE_176	Role	Investment Management			217
+DTYPE_INDUSTRY_4_ROLE_67	Role	Flooring/Tiling			151
+DTYPE_INDUSTRY_21_ROLE_359	Role	Affiliate Marketing			9
+DTYPE_INDUSTRY_11_ROLE_167	Role	Corporate			78
+DTYPE_INDUSTRY_22_ROLE_381	Role	Dental Assistant/Hygienist			99
+DTYPE_INDUSTRY_5_ROLE_71	Role	Senior Management			394
+DTYPE_INDUSTRY_12_ROLE_188	Role	Other			299
+DTYPE_INDUSTRY_16_ROLE_245	Role	System Admin/Desktop Support			433
+DTYPE_INDUSTRY_21_ROLE_368	Role	Events/Promotional Marketing			126
+DTYPE_INDUSTRY_6_ROLE_86	Role	Architecture			21
+DTYPE_INDUSTRY_22_ROLE_384	Role	Orthotist			283
+DTYPE_INDUSTRY_3_ROLE_36	Role	General Management			178
+DTYPE_INDUSTRY_16_ROLE_242	Role	Web Developer			465
+DTYPE_INDUSTRY_1_ROLE_5	Role	Dairy Products			95
+DTYPE_INDUSTRY_6_ROLE_85	Role	Creative Direction			85
+DTYPE_INDUSTRY_22_ROLE_389	Role	Nursing/Hospital			274
+DTYPE_INDUSTRY_10_ROLE_155	Role	Fellow			138
+DTYPE_INDUSTRY_2_ROLE_19	Role	Underwriter			455
+DTYPE_INDUSTRY_21_ROLE_364	Role	Marketing Communications			246
+DTYPE_INDUSTRY_2_ROLE_24	Role	General Management			177
+DTYPE_INDUSTRY_21_ROLE_354	Role	Copy Writing/Editing			77
+DTYPE_INDUSTRY_12_ROLE_189	Role	Hotel/Lodging Management			199
+DTYPE_INDUSTRY_4_ROLE_50	Role	Project Manager			350
+DTYPE_INDUSTRY_6_ROLE_81	Role	Photography/Videography			324
+DTYPE_INDUSTRY_20_ROLE_327	Role	Production			343
+DTYPE_INDUSTRY_9_ROLE_120	Role	Semiconductors			383
+DTYPE_INDUSTRY_9_ROLE_136	Role	Mechanical Engineering			255
+DTYPE_INDUSTRY_9_ROLE_135	Role	Metallurgical/Materials Engineering			267
+DTYPE_INDUSTRY_16_ROLE_268	Role	Business Intelligence/Data Science			41
+DTYPE_INDUSTRY_22_ROLE_369	Role	Veterinary/Animal Care			459
+DTYPE_INDUSTRY_16_ROLE_252	Role	Product Development			342
+DTYPE_INDUSTRY_19_ROLE_310	Role	Shipping/Receiving/Warehousing			413
+DTYPE_INDUSTRY_3_ROLE_33	Role	Senior Management			390
+DTYPE_INDUSTRY_9_ROLE_119	Role	Senior Management			388
+DTYPE_INDUSTRY_4_ROLE_57	Role	Concrete/Masonry			71
+DTYPE_INDUSTRY_9_ROLE_134	Role	Aerospace/Avionic Engineering			8
+DTYPE_INDUSTRY_15_ROLE_228	Role	Policy Underwriting			334
+DTYPE_INDUSTRY_4_ROLE_66	Role	Heavy Equipment			195
+DTYPE_INDUSTRY_2_ROLE_21	Role	Teller			446
+DTYPE_INDUSTRY_4_ROLE_61	Role	Architect			20
+DTYPE_INDUSTRY_3_ROLE_40	Role	Mathematical Statistical Research			252
+DTYPE_INDUSTRY_22_ROLE_374	Role	Research			368
+DTYPE_INDUSTRY_22_ROLE_378	Role	Pharmacy/Pharmaceutical			322
+DTYPE_INDUSTRY_12_ROLE_185	Role	Senior Management			398
+DTYPE_INDUSTRY_17_ROLE_287	Role	Journalism			226
+DTYPE_INDUSTRY_8_ROLE_113	Role	Librarian			238
+DTYPE_INDUSTRY_11_ROLE_161	Role	Registered Investment Advisor			365
+DTYPE_INDUSTRY_4_ROLE_68	Role	Equipment Operator			125
+DTYPE_INDUSTRY_17_ROLE_278	Role	Public Relations			355
+DTYPE_INDUSTRY_2_ROLE_23	Role	Other			304
+DTYPE_INDUSTRY_14_ROLE_220	Role	Locksmith			241
+DTYPE_INDUSTRY_17_ROLE_285	Role	Music/Composing			271
+DTYPE_INDUSTRY_13_ROLE_204	Role	Corporate Communications			79
+DTYPE_INDUSTRY_18_ROLE_290	Role	Secretary			378
+DTYPE_INDUSTRY_22_ROLE_396	Role	Laboratory/Pathology			229
+DTYPE_INDUSTRY_20_ROLE_326	Role	Scientific/Technical Production			377
+DTYPE_INDUSTRY_11_ROLE_157	Role	Senior Management			408
+DTYPE_INDUSTRY_11_ROLE_179	Role	Financial Product Sales/Brokerage			147
+DTYPE_INDUSTRY_14_ROLE_222	Role	HVAC			202
+DTYPE_INDUSTRY_3_ROLE_37	Role	Clinical Research			63
+DTYPE_INDUSTRY_11_ROLE_182	Role	Financial Analysis/Research			144
+DTYPE_INDUSTRY_4_ROLE_46	Role	Site Superintendent			414
+DTYPE_INDUSTRY_19_ROLE_309	Role	Supply Chain Management			431
+DTYPE_INDUSTRY_22_ROLE_399	Role	Home Health			196
+DTYPE_INDUSTRY_21_ROLE_348	Role	Digital Marketing			105
+DTYPE_INDUSTRY_5_ROLE_75	Role	General Management			167
+DTYPE_INDUSTRY_1_ROLE_6	Role	Other			294
+DTYPE_INDUSTRY_22_ROLE_375	Role	Radiology			361
+DTYPE_INDUSTRY_6_ROLE_92	Role	Fashion/Accessories			136
+DTYPE_INDUSTRY_21_ROLE_361	Role	Marketing Technology			249
+DTYPE_INDUSTRY_12_ROLE_187	Role	General Management			184
+DTYPE_INDUSTRY_6_ROLE_89	Role	Interior Design			211
+DTYPE_INDUSTRY_14_ROLE_224	Role	Equipment			123
+DTYPE_INDUSTRY_4_ROLE_56	Role	Contractor/General Contractor			73
+DTYPE_INDUSTRY_20_ROLE_328	Role	Plant Management			330
+DTYPE_INDUSTRY_4_ROLE_47	Role	Sheetrock/Plastering			412
+DTYPE_INDUSTRY_5_ROLE_77	Role	Fundraising			159
+DTYPE_INDUSTRY_19_ROLE_318	Role	Cargo/Baggage Handling			44
+DTYPE_INDUSTRY_7_ROLE_100	Role	Call/Contact Center			43
+DTYPE_INDUSTRY_20_ROLE_337	Role	Materials			251
+DTYPE_INDUSTRY_17_ROLE_276	Role	Senior Management			401
+DTYPE_INDUSTRY_19_ROLE_320	Role	Merchandise Planning/Buying			263
+DTYPE_INDUSTRY_17_ROLE_281	Role	Digital Content Development			104
+DTYPE_INDUSTRY_10_ROLE_148	Role	COO/Chief Operations Officer			76
+DTYPE_INDUSTRY_4_ROLE_60	Role	Boilermaker			33
+DTYPE_INDUSTRY_15_ROLE_240	Role	Independent Insurance Agent			205
+DTYPE_INDUSTRY_4_ROLE_64	Role	Industrial Design			207
+DTYPE_INDUSTRY_4_ROLE_65	Role	HVAC			203
+DTYPE_INDUSTRY_18_ROLE_300	Role	Litigation			239
+DTYPE_INDUSTRY_21_ROLE_344	Role	Senior Management			402
+DTYPE_INDUSTRY_17_ROLE_280	Role	Documentation/Technical Writing			108
+DTYPE_INDUSTRY_11_ROLE_175	Role	Accounting			1
+DTYPE_INDUSTRY_9_ROLE_116	Role	Test Engineering			447
+DTYPE_INDUSTRY_9_ROLE_118	Role	Six Sigma/Black Belt/TQM			415
+DTYPE_INDUSTRY_2_ROLE_26	Role	Broker			38
+DTYPE_INDUSTRY_11_ROLE_171	Role	Bookkeeping			35
+DTYPE_INDUSTRY_18_ROLE_303	Role	Labor/Employment			230
+DTYPE_INDUSTRY_2_ROLE_29	Role	Audit			23
+DTYPE_INDUSTRY_21_ROLE_343	Role	SEO			410
+DTYPE_INDUSTRY_1_ROLE_14	Role	Fishing			149
+DTYPE_INDUSTRY_10_ROLE_147	Role	Other			300
+DTYPE_INDUSTRY_10_ROLE_146	Role	Owner/Co-owner			313
+DTYPE_INDUSTRY_21_ROLE_342	Role	Social Media			416
+DTYPE_INDUSTRY_15_ROLE_236	Role	Appraiser			17
+DTYPE_INDUSTRY_17_ROLE_282	Role	General Management			170
+DTYPE_INDUSTRY_11_ROLE_158	Role	Securities Analysis/Research			379
+DTYPE_INDUSTRY_14_ROLE_211	Role	Telecommunications			442
+DTYPE_INDUSTRY_14_ROLE_210	Role	Wire/Cable			470
+DTYPE_INDUSTRY_4_ROLE_58	Role	Carpentry/Framing			45
+DTYPE_INDUSTRY_19_ROLE_313	Role	Purchasing			357
+DTYPE_INDUSTRY_7_ROLE_96	Role	Customer Training			92
+DTYPE_INDUSTRY_7_ROLE_95	Role	Product Support			348
+DTYPE_INDUSTRY_21_ROLE_363	Role	Marketing Operations			247
+DTYPE_INDUSTRY_22_ROLE_388	Role	Nutrition/Dieting			275
+DTYPE_INDUSTRY_3_ROLE_39	Role	Biological Research			31
+DTYPE_INDUSTRY_3_ROLE_35	Role	Other			290
+DTYPE_INDUSTRY_17_ROLE_283	Role	Other			303
+DTYPE_INDUSTRY_13_ROLE_201	Role	Organizational Development			282
+DTYPE_INDUSTRY_18_ROLE_304	Role	Jury Consultant			228
+DTYPE_INDUSTRY_1_ROLE_7	Role	General Management			165
+DTYPE_INDUSTRY_13_ROLE_197	Role	Payroll/Benefits			321
+DTYPE_INDUSTRY_16_ROLE_267	Role	CDO/Chief Data Officer			49
+DTYPE_INDUSTRY_1_ROLE_10	Role	Health Foods/Natural Foods			194
+DTYPE_INDUSTRY_4_ROLE_55	Role	General Management			163
+DTYPE_INDUSTRY_10_ROLE_151	Role	CEO			50
+DTYPE_INDUSTRY_18_ROLE_294	Role	Paralegal			318
+DTYPE_INDUSTRY_10_ROLE_150	Role	Chairman			52
+DTYPE_INDUSTRY_5_ROLE_69	Role	Strategic Planning/Management			427
+DTYPE_INDUSTRY_16_ROLE_258	Role	Cyber Security/Information Security			94
+DTYPE_INDUSTRY_14_ROLE_221	Role	Janitorial/Cleaning			225
+DTYPE_INDUSTRY_6_ROLE_84	Role	General Management			161
+DTYPE_INDUSTRY_18_ROLE_302	Role	Law Firm Attorney			232
+DTYPE_INDUSTRY_14_ROLE_215	Role	General Management			185
+DTYPE_INDUSTRY_13_ROLE_206	Role	CLO/Chief Learning Office			64
+DTYPE_INDUSTRY_9_ROLE_129	Role	Civil Structural Engineering			61
+DTYPE_INDUSTRY_11_ROLE_168	Role	Controller			75
+DTYPE_INDUSTRY_6_ROLE_91	Role	Graphic Arts/Illustration			188
+DTYPE_INDUSTRY_24_ROLE_409	Role	Other			296
+DTYPE_INDUSTRY_19_ROLE_308	Role	Train/Rail Operator			452
+DTYPE_INDUSTRY_24_ROLE_402	Role	Store Security/Loss Prevention			426
+DTYPE_INDUSTRY_10_ROLE_143	Role	Principal			337
+DTYPE_INDUSTRY_21_ROLE_347	Role	Direct Marketing			106
+DTYPE_INDUSTRY_22_ROLE_372	Role	Social Service			417
+DTYPE_INDUSTRY_21_ROLE_352	Role	Creator/Influencer			86
+DTYPE_INDUSTRY_24_ROLE_404	Role	Security Intelligence/Analysis			381
+DTYPE_INDUSTRY_22_ROLE_376	Role	Public Health			353
+DTYPE_INDUSTRY_24_ROLE_406	Role	Police-Law Enforcement			333
+DTYPE_INDUSTRY_24_ROLE_405	Role	Security Guard			380
+DTYPE_INDUSTRY_21_ROLE_345	Role	Public Relations			354
+DTYPE_INDUSTRY_22_ROLE_391	Role	Mental Health			262
+DTYPE_INDUSTRY_22_ROLE_373	Role	Senior Management			384
+DTYPE_INDUSTRY_22_ROLE_371	Role	Speech Pathology			422
+DTYPE_INDUSTRY_22_ROLE_394	Role	Medical Imaging			259
+DTYPE_INDUSTRY_22_ROLE_395	Role	Medical Device			258
+DTYPE_INDUSTRY_24_ROLE_412	Role	Military Combat			268
+DTYPE_INDUSTRY_21_ROLE_355	Role	Content Marketing			72
+DTYPE_INDUSTRY_25_ROLE_415	Role	Vehicle Inspection			458
+DTYPE_INDUSTRY_8_ROLE_108	Role	Other			297
+DTYPE_INDUSTRY_22_ROLE_379	Role	EMT/Paramedic			116
+DTYPE_INDUSTRY_24_ROLE_407	Role	Customs/Immigration			93
+DTYPE_INDUSTRY_23_ROLE_401	Role	Other			293
+DTYPE_INDUSTRY_22_ROLE_392	Role	Medical Therapy/Rehab Services			261
+DTYPE_INDUSTRY_7_ROLE_94	Role	Senior Management			396
+DTYPE_INDUSTRY_15_ROLE_232	Role	Other			286
+DTYPE_INDUSTRY_8_ROLE_112	Role	Administrator			5
+DTYPE_INDUSTRY_4_ROLE_48	Role	Senior Management			392
+DTYPE_INDUSTRY_9_ROLE_131	Role	CAD/Drafting			42
+DTYPE_INDUSTRY_10_ROLE_142	Role	Treasurer			454
+DTYPE_INDUSTRY_24_ROLE_411	Role	Airport Security/Screening			12
+DTYPE_INDUSTRY_21_ROLE_346	Role	Product Management			346
+DTYPE_INDUSTRY_16_ROLE_243	Role	Telecommunications & Wireless			443
+DTYPE_INDUSTRY_7_ROLE_98	Role	Other			292
+DTYPE_INDUSTRY_16_ROLE_266	Role	CIO/Chief Information Officer			59
+DTYPE_INDUSTRY_18_ROLE_297	Role	Contracts Administration			74
+DTYPE_INDUSTRY_9_ROLE_125	Role	Design Engineering			101
+DTYPE_INDUSTRY_16_ROLE_269	Role	Network/Server Administration			272
+DTYPE_INDUSTRY_22_ROLE_387	Role	Occupational Therapy			277
+DTYPE_INDUSTRY_20_ROLE_331	Role	General Management			174
+DTYPE_INDUSTRY_16_ROLE_259	Role	CTO/Chief Technology Officer			90
+DTYPE_INDUSTRY_16_ROLE_272	Role	IT Infrastructure			222
+DTYPE_INDUSTRY_16_ROLE_264	Role	Computer Engineering			69
+DTYPE_INDUSTRY_18_ROLE_306	Role	In-House Attorney			209
+DTYPE_INDUSTRY_6_ROLE_82	Role	Painting/Sculpting/Printmaking			316
+DTYPE_INDUSTRY_17_ROLE_275	Role	Translation/Interpretation			453
+DTYPE_INDUSTRY_20_ROLE_333	Role	Operations			279
+DTYPE_INDUSTRY_24_ROLE_414	Role	Event Ticketing			128
+DTYPE_INDUSTRY_18_ROLE_301	Role	Legal Operations			236
+DTYPE_INDUSTRY_9_ROLE_137	Role	Measurement Engineering			253
+DTYPE_INDUSTRY_3_ROLE_42	Role	Environmental Testing/Analysis			122
+DTYPE_INDUSTRY_16_ROLE_250	Role	Senior Management			407
+DTYPE_INDUSTRY_13_ROLE_209	Role	HR Systems Administration			201
+DTYPE_INDUSTRY_10_ROLE_145	Role	Partner			319
+DTYPE_INDUSTRY_4_ROLE_45	Role	Surveying			432
+AGE-GROUP-0	Age	0 to 20			1
+DTYPE_INDUSTRY_21_ROLE_349	Role	Demand/Lead Generation			98
+DTYPE_INDUSTRY_1_ROLE_1	Role	Senior Management			403
+DTYPE_INDUSTRY_15_ROLE_241	Role	Financial Analysis/Research			143
+DTYPE_INDUSTRY_11_ROLE_178	Role	Fund Accounting			158
+DTYPE_INDUSTRY_2_ROLE_31	Role	Mergers/Acquisitions			265
+DTYPE_INDUSTRY_16_ROLE_257	Role	Data Center			97
+DTYPE_INDUSTRY_22_ROLE_385	Role	Ophthalmology			281
+DTYPE_INDUSTRY_18_ROLE_296	Role	Other			289
+DTYPE_INDUSTRY_17_ROLE_284	Role	Author			26
+DTYPE_INDUSTRY_21_ROLE_356	Role	CMO/Chief Marketing Officer			65
+DTYPE_INDUSTRY_16_ROLE_260	Role	General Management			172
+DTYPE_INDUSTRY_9_ROLE_132	Role	Bio-Engineering			30
+DTYPE_INDUSTRY_14_ROLE_223	Role	Facilities			132
+DTYPE_INDUSTRY_20_ROLE_339	Role	Equipment			124
+DTYPE_INDUSTRY_12_ROLE_183	Role	Winery			469
+DTYPE_INDUSTRY_11_ROLE_170	Role	CFO/Chief Financial Officer			51
+DTYPE_INDUSTRY_19_ROLE_324	Role	Hazardous Material Handling			192
+DTYPE_INDUSTRY_6_ROLE_87	Role	Animation/Multimedia			16
+DTYPE_INDUSTRY_21_ROLE_351	Role	Other			288
+DTYPE_INDUSTRY_20_ROLE_336	Role	Metal Fabrication/Welding			266
+DTYPE_INDUSTRY_9_ROLE_117	Role	System/Process Engineering			435
+DTYPE_INDUSTRY_2_ROLE_30	Role	Analyst			14
+DTYPE_INDUSTRY_12_ROLE_191	Role	Guide			190
+DTYPE_INDUSTRY_1_ROLE_18	Role	Farming/Farming Equipment			135
+DTYPE_INDUSTRY_19_ROLE_307	Role	Vehicle Dispatch/Routing/Scheduling			457
+DTYPE_INDUSTRY_11_ROLE_159	Role	Risk Management/Compliance			373
+DTYPE_INDUSTRY_8_ROLE_103	Role	Student			430
+DTYPE_INDUSTRY_13_ROLE_208	Role	Learning/Training			233
+DTYPE_INDUSTRY_10_ROLE_144	Role	President			336
+DTYPE_INDUSTRY_13_ROLE_199	Role	General Management			176
+DTYPE_INDUSTRY_16_ROLE_253	Role	Enterprise Software Implementation			118
+DTYPE_INDUSTRY_11_ROLE_174	Role	Accounts Payable/Receivable			3
+DTYPE_INDUSTRY_5_ROLE_76	Role	Analysis/Research			13
+DTYPE_INDUSTRY_13_ROLE_193	Role	Wellness			467
+DTYPE_INDUSTRY_6_ROLE_88	Role	Advertising			7
+DTYPE_INDUSTRY_4_ROLE_59	Role	Building Inspection			39
+DTYPE_INDUSTRY_12_ROLE_190	Role	Host/Hostess			198
+DTYPE_INDUSTRY_14_ROLE_214	Role	Electrician			114
+DTYPE_INDUSTRY_17_ROLE_277	Role	Radio/Broadcasting			360
+DTYPE_INDUSTRY_3_ROLE_34	Role	Pharmacy/Pharmaceutical			323
+DTYPE_INDUSTRY_16_ROLE_273	Role	Hardware			191
+DTYPE_INDUSTRY_8_ROLE_107	Role	Early Childhood Care/Development			109
+DTYPE_INDUSTRY_1_ROLE_13	Role	Florists/Floriculture			152
+DTYPE_INDUSTRY_14_ROLE_218	Role	Computer/Electronics			68
+DTYPE_INDUSTRY_22_ROLE_398	Role	Hospital/Clinic			197
+DTYPE_INDUSTRY_20_ROLE_334	Role	Assembly/Assembly Line			22
+DTYPE_INDUSTRY_15_ROLE_237	Role	Actuarial Analysis			4
+DTYPE_INDUSTRY_10_ROLE_153	Role	Managing Partner			245
+DTYPE_INDUSTRY_1_ROLE_3	Role	Produce (Fruits/Vegetables)			341
+DTYPE_INDUSTRY_1_ROLE_4	Role	Poultry/Poultry Products			335
+DTYPE_INDUSTRY_19_ROLE_321	Role	Logistics			242
+DTYPE_INDUSTRY_19_ROLE_314	Role	Public Transportation			356
+DTYPE_INDUSTRY_8_ROLE_105	Role	Senior Management			393
+DTYPE_INDUSTRY_11_ROLE_177	Role	Investment Banking/Sales and Trading			215
+DTYPE_INDUSTRY_15_ROLE_233	Role	Claims Review/Adjusting			62
+DTYPE_INDUSTRY_6_ROLE_90	Role	Industrial Design			206
+DTYPE_INDUSTRY_14_ROLE_216	Role	Other			298
+DTYPE_INDUSTRY_20_ROLE_330	Role	Packaging			314
+DTYPE_INDUSTRY_27_ROLE_447	Role	Merchandise Planning/Buying			264
+DTYPE_INDUSTRY_11_ROLE_169	Role	Collections			66
+DTYPE_INDUSTRY_27_ROLE_440	Role	Store/Branch Management			425
+DTYPE_INDUSTRY_26_ROLE_429	Role	Senior Management			399
+DTYPE_INDUSTRY_8_ROLE_114	Role	Fitness/Sports Training			150
+DTYPE_INDUSTRY_22_ROLE_393	Role	Medical Practitioner			260
+DTYPE_INDUSTRY_28_ROLE_459	Role	Media/Advertising Sales			256
+DTYPE_INDUSTRY_16_ROLE_270	Role	IT Systems Management			224
+DTYPE_INDUSTRY_1_ROLE_12	Role	Food Processing/Distribution			153
+DTYPE_INDUSTRY_9_ROLE_127	Role	Other			287
+DTYPE_INDUSTRY_26_ROLE_431	Role	General Management			175
+DTYPE_INDUSTRY_22_ROLE_390	Role	Neurology			273
+DTYPE_INDUSTRY_11_ROLE_180	Role	Financial Planning/Advising			146
+DTYPE_INDUSTRY_18_ROLE_299	Role	Arbitrator/Mediator			19
+DTYPE_INDUSTRY_20_ROLE_335	Role	Moldmaking/Casting			269
+DTYPE_INDUSTRY_20_ROLE_338	Role	Machining/CNC			243
+DTYPE_INDUSTRY_4_ROLE_52	Role	Painting/Wallpapering			317
+DTYPE_INDUSTRY_9_ROLE_124	Role	Electrical/Electronics Engineering			113
+DTYPE_INDUSTRY_24_ROLE_408	Role	General Management			164
+DTYPE_INDUSTRY_25_ROLE_424	Role	Fraud Investigation			157
+DTYPE_INDUSTRY_14_ROLE_219	Role	Automotive/Vehicle			28
+DTYPE_INDUSTRY_4_ROLE_63	Role	Ironwork/Metal Fabrication			220
+DTYPE_INDUSTRY_22_ROLE_397	Role	Internal Medicine			212
+DTYPE_INDUSTRY_19_ROLE_322	Role	Inventory Planning/Management			214
+DTYPE_INDUSTRY_15_ROLE_238	Role	Investment Management			216
+DTYPE_INDUSTRY_2_ROLE_32	Role	Lending			237
+DTYPE_INDUSTRY_21_ROLE_365	Role	Market Research			250
+DTYPE_INDUSTRY_16_ROLE_255	Role	Desktop Systems			102
+DTYPE_INDUSTRY_24_ROLE_410	Role	Correctional Officer			83
+DTYPE_INDUSTRY_29_ROLE_466	Role	Other			307
+DTYPE_INDUSTRY_16_ROLE_247	Role	Software/System Architecture			420
+DTYPE_INDUSTRY_25_ROLE_416	Role	Senior Management			405
+DTYPE_INDUSTRY_27_ROLE_444	Role	eCommerce			110
+DTYPE_INDUSTRY_3_ROLE_41	Role	Geological Testing/Analysis			187
+DTYPE_INDUSTRY_15_ROLE_235	Role	Audit			24
+DTYPE_INDUSTRY_28_ROLE_455	Role	General Management			183
+DTYPE_INDUSTRY_18_ROLE_293	Role	Patent/IP			320
+DTYPE_INDUSTRY_11_ROLE_173	Role	Analyst			15
+DTYPE_INDUSTRY_12_ROLE_192	Role	Guest Services/Concierge			189
+DTYPE_INDUSTRY_2_ROLE_20	Role	Title/Escrow			449
+DTYPE_INDUSTRY_14_ROLE_217	Role	Oil Rig/Pipeline			278
+DTYPE_INDUSTRY_6_ROLE_80	Role	Senior Management			406
+DTYPE_INDUSTRY_8_ROLE_110	Role	Corporate Training			82
+DTYPE_INDUSTRY_26_ROLE_432	Role	Other			284
+DTYPE_INDUSTRY_6_ROLE_79	Role	Web Design			464
+DTYPE_INDUSTRY_6_ROLE_83	Role	Other			306
+DTYPE_INDUSTRY_11_ROLE_160	Role	Registered Rep			366
+DTYPE_INDUSTRY_19_ROLE_319	Role	Car/Truck/Van/Bus Driving			46
+DTYPE_INDUSTRY_28_ROLE_458	Role	Agent/Broker			10
+DTYPE_INDUSTRY_5_ROLE_70	Role	Services/Support			411
+DTYPE_INDUSTRY_12_ROLE_184	Role	Waiter/Waitress			463
+DTYPE_INDUSTRY_11_ROLE_162	Role	Procurement			340
+DTYPE_INDUSTRY_11_ROLE_166	Role	Credit Review/Analysis			88
+DTYPE_INDUSTRY_7_ROLE_93	Role	Technical Support			440
+DTYPE_INDUSTRY_16_ROLE_244	Role	System Analysis			434
+DTYPE_INDUSTRY_12_ROLE_186	Role	Restaurant Management			369
+DTYPE_INDUSTRY_19_ROLE_323	Role	Import/Export Administration			204
+DTYPE_INDUSTRY_24_ROLE_413	Role	Firefighting/Rescue			148
+DTYPE_INDUSTRY_16_ROLE_254	Role	Devops & Application Management			103
+DTYPE_INDUSTRY_17_ROLE_286	Role	Motion/Talk/Sound/Commercial Pictures			270
+DTYPE_INDUSTRY_9_ROLE_133	Role	Automotive Engineering			27
+DTYPE_INDUSTRY_4_ROLE_43	Role	Welder			466
+DTYPE_INDUSTRY_1_ROLE_9	Role	Livestock/Breed			240
+DTYPE_INDUSTRY_7_ROLE_97	Role	Customer Service/Support			91
+DTYPE_INDUSTRY_19_ROLE_317	Role	Other			291
+DTYPE_INDUSTRY_8_ROLE_115	Role	Faculty			134
+DTYPE_INDUSTRY_8_ROLE_104	Role	Special Education			421
+DTYPE_INDUSTRY_24_ROLE_403	Role	Senior Management			404
+DTYPE_INDUSTRY_2_ROLE_27	Role	Branch Manager			36
+DTYPE_INDUSTRY_19_ROLE_312	Role	Recreational Vehicles			363
+DTYPE_INDUSTRY_10_ROLE_154	Role	General Manager			186
+DTYPE_INDUSTRY_17_ROLE_279	Role	Editing/Proofreading			111
+DTYPE_INDUSTRY_21_ROLE_357	Role	Channel Marketing			54
+DTYPE_INDUSTRY_13_ROLE_203	Role	Corporate Development			80
+DTYPE_INDUSTRY_4_ROLE_62	Role	Laborer			231
+DTYPE_INDUSTRY_13_ROLE_198	Role	Diversity Management/EEO/Compliance			107
+DTYPE_INDUSTRY_4_ROLE_54	Role	Other			312
+DTYPE_INDUSTRY_18_ROLE_292	Role	Real Estate			362
+DTYPE_INDUSTRY_20_ROLE_325	Role	Senior Management			409
+DTYPE_INDUSTRY_20_ROLE_329	Role	Planning			327
+DTYPE_INDUSTRY_1_ROLE_17	Role	Feed/Grain/Milling			137
+DTYPE_INDUSTRY_20_ROLE_332	Role	Other			285
+DTYPE_INDUSTRY_4_ROLE_53	Role	Electrical			112
+DTYPE_INDUSTRY_13_ROLE_196	Role	Recruiting			364
+DTYPE_INDUSTRY_28_ROLE_451	Role	Senior Management			389
+DTYPE_INDUSTRY_16_ROLE_256	Role	Database Management			96
+DTYPE_INDUSTRY_15_ROLE_227	Role	Risk Management/Compliance			372
+DTYPE_INDUSTRY_11_ROLE_163	Role	Private Equity			338
+DTYPE_INDUSTRY_22_ROLE_377	Role	Physical Therapy			325
+DTYPE_INDUSTRY_9_ROLE_141	Role	Environmental/Geological Engineering			120
+DTYPE_INDUSTRY_10_ROLE_149	Role	Chancellor			53
